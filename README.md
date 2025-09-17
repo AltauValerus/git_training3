@@ -2,5 +2,6 @@
 ## This is my first repository
 HMMMMMMMMMMMMMMM
 Here is the conflict 
-Here is another conflict.
-That is the sound of the police.
+I am happy for now.
+Yet another day
+
